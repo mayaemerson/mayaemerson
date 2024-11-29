@@ -21,9 +21,9 @@
   ##
   
 <div style="display: flex;">
+  <a href="https://www.youtube.com/channel/UC-m2G9h-T3EM0Eehd4_eyJw" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:maiaemerson@maiaemerson.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/mayaemerson__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emerson-maia-256ba2232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:maiaemerson@maiaemerson.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@maiaemersondev" target="_blank"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UC-m2G9h-T3EM0Eehd4_eyJw" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 </div>
