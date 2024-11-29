@@ -1,7 +1,7 @@
 ##  Emerson Maia
  <div aling="left">
   <a href="https://github.com/mayaemerson"> </a>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayamerson=yellow" alt="Profile views" /> </p>
+    <!-- <p><img src="https://komarev.com/ghpvc/?username=mayamerson&color=yellow" alt="Contador de visualizações do perfil do GitHub de mayamerson" /></p>-->
     <img widht="530em" src="https://github-readme-stats.vercel.app/api?username=mayaemerson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img widht="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaemerson&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
