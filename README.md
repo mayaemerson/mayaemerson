@@ -1,7 +1,7 @@
 ##  Emerson Maia
- <div style="display: flex;">
+ <div aling="left">
   <a href="https://github.com/mayaemerson">
-    <img widht="530em" src="https://github-readme-stats.vercel.app/api?username=mayaemerson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img widht="430em" src="https://github-readme-stats.vercel.app/api?username=mayaemerson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img widht="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaemerson&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
